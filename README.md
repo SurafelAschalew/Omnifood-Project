@@ -20,8 +20,8 @@ To get started with [Your Website's Name], visit our official website:
 
 For more information, questions, or support, feel free to reach out to us:
 
-- Telegram: [Yamroz](https://facebook.com/#)
-- Instagram: [Yamroz](https://linkedin.com/in/#)
+- Telegram: [Yamroz](https://t.me/#)
+- Instagram: [Yamroz](https://instagram.com/#)
 
 Thank you for visiting [Omnifood - Project]! I hope you enjoy your experience.
 
